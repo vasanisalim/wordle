@@ -2,7 +2,7 @@
 My version of the Wordle Game created using HTML, CSS and JavaScript.
 
 # Usage
-Run the index.html in any browser to launch the game. Use your keyboard to enter the letters of the word. Hit Enter or click the Submit button after entering your word.
+Run the index.html in any browser to launch the game or visit this GitHub pages site https://vasanisalim.github.io/wordle/. Use your keyboard to enter the letters of the word. Hit Enter or click the Submit button after entering your word.
 
 # Word List
 The game uses two word lists. 
